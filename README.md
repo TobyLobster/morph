@@ -10,8 +10,6 @@ The letters come from a TrueType font (DejaVu Sans Bold). They are stored as qua
 
 Load `morph.ssd` into a BBC Micro Model B emulator, or onto a real disc, and boot it with SHIFT+BREAK. It runs until you press BREAK.
 
-> So far it has only been tested in a cycle-counting 6502 simulator. Every frame was compared byte for byte with a Python model of the program. It has not yet been run on real hardware or in an emulator, so reports are welcome.
-
 ## Building it
 
 You need:
